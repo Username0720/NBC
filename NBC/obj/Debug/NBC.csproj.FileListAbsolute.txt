@@ -1,0 +1,7 @@
+C:\Users\UserName\source\repos\NBC\NBC\bin\Debug\NBC.exe.config
+C:\Users\UserName\source\repos\NBC\NBC\bin\Debug\NBC.exe
+C:\Users\UserName\source\repos\NBC\NBC\bin\Debug\NBC.pdb
+C:\Users\UserName\source\repos\NBC\NBC\obj\Debug\NBC.csprojAssemblyReference.cache
+C:\Users\UserName\source\repos\NBC\NBC\obj\Debug\NBC.csproj.CoreCompileInputs.cache
+C:\Users\UserName\source\repos\NBC\NBC\obj\Debug\NBC.exe
+C:\Users\UserName\source\repos\NBC\NBC\obj\Debug\NBC.pdb
